@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Cooking.Models.Category>
+
+@{
+    ViewData["Title"] = "Measurement Categories";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MeasureCodeNavigation.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MeasureCodeNavigation.Name)
+            </td>
+            <td>
+                <a asp-action="Index" asp-route-CategoryCode="@item.CategoryCode" asp-controller="Measure">Measures</a>|
+                <a asp-action="Edit" asp-route-id="@item.CategoryCode">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CategoryCode">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CategoryCode">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

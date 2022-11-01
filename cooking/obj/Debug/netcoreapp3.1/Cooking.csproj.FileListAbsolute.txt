@@ -1,0 +1,273 @@
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\appsettings.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.StaticWebAssets.xml
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.Views.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.Views.pdb
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.MvcApplicationPartsAssemblyInfo.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.MvcApplicationPartsAssemblyInfo.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorAssemblyInfo.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorAssemblyInfo.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.TagHelpers.input.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.TagHelpers.output.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorCoreGenerate.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorTargetAssemblyInfo.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorTargetAssemblyInfo.cs
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.Views.pdb
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CopyComplete
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\staticwebassets\Cooking.StaticWebAssets.Manifest.cache
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\staticwebassets\Cooking.StaticWebAssets.xml
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+I:\ASP.NET.MVC\Tests\InitialProjects_Core3.2\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.StaticWebAssets.xml
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.Views.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Cooking.Views.pdb
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorAssemblyInfo.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorAssemblyInfo.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\staticwebassets\Cooking.StaticWebAssets.Manifest.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\staticwebassets\Cooking.StaticWebAssets.xml
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cooking.styles.css
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.TagHelpers.input.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.TagHelpers.output.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorCoreGenerate.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorTargetAssemblyInfo.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.RazorTargetAssemblyInfo.cs
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.Views.pdb
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CopyComplete
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Mid Term (1)\Cooking\Cooking\obj\Debug\netcoreapp3.1\Cooking.GeneratedMSBuildEditorConfig.editorconfig
